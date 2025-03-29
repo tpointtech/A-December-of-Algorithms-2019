@@ -344,7 +344,7 @@ We have a small collection of algorithms, one for every day of the month. Scroll
           <li><a href="http://www.cplusplus.com/reference/regex/">Regular Expressions in C++</a></li>
           <li><a href="https://www.tutorialspoint.com/python/python_reg_expressions.htm">Regular Expressions in Python</a></li>
           <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions">Regular Expressions in JavaScript</a></li>
-          <li><a href="https://www.javatpoint.com/java-regex">Regular Expressions in Java</a></li>
+          <li><a href="https://www.tpointtech.com/java-regex">Regular Expressions in Java</a></li>
       </ul>
     </details>
 
@@ -446,7 +446,7 @@ We have a small collection of algorithms, one for every day of the month. Scroll
   - **Resources**
     - [String in c++](https://www.w3schools.com/cpp/cpp_strings.asp)
     - [Strings in python](https://www.w3schools.com/python/python_strings.asp)
-    - [Strings in java](https://www.javatpoint.com/java-string)
+    - [Strings in java](https://www.tpointtech.com/java-string)
 
 
 ### **December 15 - Intruder Alert**
@@ -462,7 +462,7 @@ We have a small collection of algorithms, one for every day of the month. Scroll
     Combinations: [AAABBB, AABABB,AABBAB,ABAABB,ABABAB]
     ```
   - **Resources**
-    - [Backtracking](https://www.javatpoint.com/backtracking-introduction)
+    - [Backtracking](https://www.tpointtech.com/backtracking-introduction)
     
 
 ### **December 16 - Casino Royale**
